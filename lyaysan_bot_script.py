@@ -14,9 +14,7 @@ def start(update: Update, context: CallbackContext):
     context.bot.send_message(
         chat_id=chat_id,
         text=(
-            "Привет! Это бот @Lyaysan_neuro_bot.
-
-"
+            "Привет! Это бот @Lyaysan_neuro_bot.\n\n"
             "Здесь ты можешь получить PDF-гайд по медленному чтению — пошаговую инструкцию для родителей.
 
 "
